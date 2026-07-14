@@ -1,0 +1,6 @@
+POST http://localhost:8080/ai/chat
+Content-Type: application/json
+
+{
+  "question": "找不到取件码怎么办"
+}
